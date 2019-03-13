@@ -1,2 +1,2 @@
 # blog
-[new] https://lanxxg.github.io
+**new** https://lanxxg.github.io
